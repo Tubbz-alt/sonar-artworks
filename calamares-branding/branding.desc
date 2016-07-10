@@ -2,13 +2,13 @@
 componentName:  sonar
 
 strings:
-    productName:         Sonar GNU Linux
-    shortProductName:    Sonar
+    productName:         @dist@ GNU Linux
+    shortProductName:    @dist@
     version:             @version@
     shortVersion:        @version@
-    versionedName:       Sonar GNU Linux  @version@
-    shortVersionedName:  Sonar Linux @version@
-    bootloaderEntryName: Sonar
+    versionedName:       @dist@ GNU Linux  @version@
+    shortVersionedName:  @dist@ Linux @version@
+    bootloaderEntryName: @dist@
 
 images:
     productLogo:         "squid.png"
